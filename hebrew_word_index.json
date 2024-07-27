@@ -1,6 +1,6 @@
 [
   {
-    "language": "Biblical Hebrew"
+    "language": "Biblical Hebrew",
     "word": "הַ",
     "definition": "the",
     "pronunciation": "ha",
@@ -10,7 +10,7 @@
     "english_transliterations": ["ha", "the"]
   },
   {
-    "language": "Biblical Hebrew"
+    "language": "Biblical Hebrew",
     "word": "וְ",
     "definition": "and",
     "pronunciation": "vuh",
@@ -20,7 +20,7 @@
     "english_transliterations": ["vuh", "and"]
   },
   {
-    "language": "Biblical Hebrew"
+    "language": "Biblical Hebrew",
     "word": "יהוה",
     "definition": "YHWH or I AM",
     "pronunciation": "yahweh",
