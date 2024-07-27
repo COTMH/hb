@@ -6,7 +6,7 @@
     "pronunciation": "ha",
     "usage": "This word attaches as a prefix to the word.",
     "example": "The Heavens is הַשָּׁמַיִם with הַ (ha) being the prefix to שָּׁמַיִם (shuh-mah-yeem) to make הַשָּׁמַיִם (ha-shuh-mah-yeem)",
-    "wordid": "1",
+    "wordid": "h1",
     "english_transliterations": ["ha", "the"]
   },
   {
@@ -16,7 +16,7 @@
     "pronunciation": "vuh",
     "usage": "This word attaches as a prefix to the word.",
     "example": "And darkness is וְהֹשֶׁךְ (vuh-ho-shekh), just one word.",
-    "wordid": "2",
+    "wordid": "h2",
     "english_transliterations": ["vuh", "and"]
   },
   {
@@ -26,7 +26,7 @@
     "pronunciation": "yahweh",
     "usage": "These four letters together are known as the Tetragrammaton or the Tetragram and are designed to be more of a inhale and exhale.",
     "example": "n/a",
-    "wordid": "3",
+    "wordid": "h3",
     "english_transliterations": ["yahweh", "I AM"]
   }
 ]
