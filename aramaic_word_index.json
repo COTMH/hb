@@ -1,12 +1,13 @@
 [
   {
-    "language": "Biblical Aramaic",
-    "word": "ῥακά",
-    "definition": "raka",
-    "pronunciation": "raka",
-    "usage": "typically used as an insult",
-    "example": "n/a",
-    "wordid": "a1",
-    "english_transliterations": ["raka"]
+    "Language": "Biblical Aramaic",
+    "Word": "ῥακά",
+    "Pronunciation": "raka or raca",
+    "English Translation": "empty",
+    "Definition": "empty, meaningless, worthless",
+    "Usage": "as an insult it would be more translated as empty headed or fool.",
+    "Translated as": "fool"
+    "Wordid": "a1",
+    "English_transliterations": ["raka", "fool", "raca", "empty headed"]
   }
 ]
