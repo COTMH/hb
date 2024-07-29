@@ -5,13 +5,13 @@
     "Pronunciation": "ha",
     "English Translation": "the",
     "Definition": "This word is a determiner.",
-    "Usage": "This word attaches as a prefix to the word and is used before nouns to refer to a particular noun",
-    "Translated as": "the"
+    "Usage": "This word attaches as a prefix to the word and is used before nouns to refer to a particular noun.",
+    "Translated as": "the",
     "Wordid": "h1",
     "English_transliterations": ["ha", "the"]
   },
   {
-    "Language": "Biblical Hebrew.",
+    "Language": "Biblical Hebrew",
     "Word": "וְ",
     "Pronunciation": "vuh",
     "English Translation": "and",
@@ -27,10 +27,9 @@
     "Pronunciation": "yahweh",
     "English Translation": "I am, God, YHWH, or YAHWEH",
     "Definition": "I am",
-    "Usage": "These four letters together are known as the Tetragrammaton or the Tetragram and are designed to be more of a inhale and exhale.",
+    "Usage": "These four letters together are known as the Tetragrammaton or the Tetragram and are designed to be more of an inhale and exhale.",
     "Translated as": "THE LORD or I AM",
     "Wordid": "h3",
     "English_transliterations": ["yahweh", "I AM", "yhwh"]
   }
 ]
-
