@@ -1,33 +1,36 @@
 [
   {
-    "language": "Biblical Hebrew",
-    "word": "הַ",
-    "definition": "the",
-    "pronunciation": "ha",
-    "usage": "This word attaches as a prefix to the word.",
-    "example": "The Heavens is הַשָּׁמַיִם with הַ (ha) being the prefix to שָּׁמַיִם (shuh-mah-yeem) to make הַשָּׁמַיִם (ha-shuh-mah-yeem)",
-    "wordid": "h1",
-    "english_transliterations": ["ha", "the"]
+    "Language": "Biblical Hebrew",
+    "Word": "הַ",
+    "Pronunciation": "ha",
+    "English Translation": "the",
+    "Definition": "This word is a determiner.",
+    "Usage": "This word attaches as a prefix to the word and is used before nouns to refer to a particular noun",
+    "Translated as": "the"
+    "Wordid": "h1",
+    "English_transliterations": ["ha", "the"]
   },
   {
-    "language": "Biblical Hebrew",
-    "word": "וְ",
-    "definition": "and",
-    "pronunciation": "vuh",
-    "usage": "This word attaches as a prefix to the word.",
-    "example": "And darkness is וְהֹשֶׁךְ (vuh-ho-shekh), just one word.",
-    "wordid": "h2",
-    "english_transliterations": ["vuh", "and"]
+    "Language": "Biblical Hebrew.",
+    "Word": "וְ",
+    "Pronunciation": "vuh",
+    "English Translation": "and",
+    "Definition": "This word is a conjunction.",
+    "Usage": "In Hebrew, this word attaches as a prefix to the word and joins two words, phrases, parts of sentences, or related statements.",
+    "Translated as": "and",
+    "Wordid": "h2",
+    "English_transliterations": ["vuh", "and"]
   },
   {
-    "language": "Biblical Hebrew",
-    "word": "יהוה",
-    "definition": "YHWH or I AM",
-    "pronunciation": "yahweh",
-    "usage": "These four letters together are known as the Tetragrammaton or the Tetragram and are designed to be more of a inhale and exhale.",
-    "example": "n/a",
-    "wordid": "h3",
-    "english_transliterations": ["yahweh", "I AM"]
+    "Language": "Biblical Hebrew",
+    "Word": "יהוה",
+    "Pronunciation": "yahweh",
+    "English Translation": "I am, God, YHWH, or YAHWEH",
+    "Definition": "I am",
+    "Usage": "These four letters together are known as the Tetragrammaton or the Tetragram and are designed to be more of a inhale and exhale.",
+    "Translated as": "THE LORD or I AM",
+    "Wordid": "h3",
+    "English_transliterations": ["yahweh", "I AM", "yhwh"]
   }
 ]
 
