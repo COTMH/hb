@@ -1,12 +1,13 @@
 [
   {
-    "language": "Biblical Greek",
-    "word": "ἀνὴρ",
-    "definition": "a male person of full age and stature",
-    "pronunciation": "anēr",
-    "usage": "Nominative singular masculine noun",
-    "example": "n/a",
-    "wordid": "g1",
-    "english_transliterations": ["aner", "anēr"]
+    "Language": "Biblical Greek",
+    "Word": "ἀνὴρ",
+    "Pronunciation": "anēr",
+    "English Translation": "Man",
+    "Definition": "a male person of full age and stature",
+    "Usage": "Nominative singular masculine noun",
+    "Translated as": "Man"
+    "Wordid": "g1",
+    "English_transliterations": ["aner", "anēr", "man", "male"]
   }
 ]
